@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ignite/static/js/main.eff93162.chunk.js",
-    "main.js.map": "/ignite/static/js/main.eff93162.chunk.js.map",
+    "main.js": "/ignite/static/js/main.7bc2f0cd.chunk.js",
+    "main.js.map": "/ignite/static/js/main.7bc2f0cd.chunk.js.map",
     "runtime-main.js": "/ignite/static/js/runtime-main.e80c9ae8.js",
     "runtime-main.js.map": "/ignite/static/js/runtime-main.e80c9ae8.js.map",
     "static/js/2.3ca7a04a.chunk.js": "/ignite/static/js/2.3ca7a04a.chunk.js",
@@ -10,6 +10,7 @@
     "static/js/3.dba0040c.chunk.js.map": "/ignite/static/js/3.dba0040c.chunk.js.map",
     "index.html": "/ignite/index.html",
     "static/js/2.3ca7a04a.chunk.js.LICENSE.txt": "/ignite/static/js/2.3ca7a04a.chunk.js.LICENSE.txt",
+    "static/media/LoaderRolling.782c3c68.svg": "/ignite/static/media/LoaderRolling.782c3c68.svg",
     "static/media/apple.5757c37e.svg": "/ignite/static/media/apple.5757c37e.svg",
     "static/media/gamepad.c9269ef5.svg": "/ignite/static/media/gamepad.c9269ef5.svg",
     "static/media/logo.9b6b8655.svg": "/ignite/static/media/logo.9b6b8655.svg",
@@ -21,6 +22,6 @@
   "entrypoints": [
     "static/js/runtime-main.e80c9ae8.js",
     "static/js/2.3ca7a04a.chunk.js",
-    "static/js/main.eff93162.chunk.js"
+    "static/js/main.7bc2f0cd.chunk.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/ignite/static/js/main.5e427a5e.chunk.js",
-    "main.js.map": "/ignite/static/js/main.5e427a5e.chunk.js.map",
+    "main.js": "/ignite/static/js/main.d3fc9adf.chunk.js",
+    "main.js.map": "/ignite/static/js/main.d3fc9adf.chunk.js.map",
     "runtime-main.js": "/ignite/static/js/runtime-main.e80c9ae8.js",
     "runtime-main.js.map": "/ignite/static/js/runtime-main.e80c9ae8.js.map",
-    "static/js/2.4eed6dae.chunk.js": "/ignite/static/js/2.4eed6dae.chunk.js",
-    "static/js/2.4eed6dae.chunk.js.map": "/ignite/static/js/2.4eed6dae.chunk.js.map",
+    "static/js/2.b6b27fc1.chunk.js": "/ignite/static/js/2.b6b27fc1.chunk.js",
+    "static/js/2.b6b27fc1.chunk.js.map": "/ignite/static/js/2.b6b27fc1.chunk.js.map",
     "static/js/3.dba0040c.chunk.js": "/ignite/static/js/3.dba0040c.chunk.js",
     "static/js/3.dba0040c.chunk.js.map": "/ignite/static/js/3.dba0040c.chunk.js.map",
     "index.html": "/ignite/index.html",
-    "static/js/2.4eed6dae.chunk.js.LICENSE.txt": "/ignite/static/js/2.4eed6dae.chunk.js.LICENSE.txt",
+    "static/js/2.b6b27fc1.chunk.js.LICENSE.txt": "/ignite/static/js/2.b6b27fc1.chunk.js.LICENSE.txt",
     "static/media/apple.5757c37e.svg": "/ignite/static/media/apple.5757c37e.svg",
     "static/media/gamepad.c9269ef5.svg": "/ignite/static/media/gamepad.c9269ef5.svg",
     "static/media/logo.9b6b8655.svg": "/ignite/static/media/logo.9b6b8655.svg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e80c9ae8.js",
-    "static/js/2.4eed6dae.chunk.js",
-    "static/js/main.5e427a5e.chunk.js"
+    "static/js/2.b6b27fc1.chunk.js",
+    "static/js/main.d3fc9adf.chunk.js"
   ]
 }

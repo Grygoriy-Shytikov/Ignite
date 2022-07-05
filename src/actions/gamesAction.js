@@ -5,7 +5,6 @@ import {
   upcomingGamesURL,
   searchGameURL,
 } from "../api";
-
 // ACTION CREATOR
 export const loadGames = () => async (dispatch) => {
   // Fetch Axios
@@ -25,6 +24,8 @@ export const loadGames = () => async (dispatch) => {
 
 export const fetchSearch = (game_name) => async (dispatch) => {
   const searchData = await axios.get(searchGameURL(game_name));
+
+  console.log(searchGameURL(game_name));
 
   dispatch({
     type: "FETCH_SEARCHED",

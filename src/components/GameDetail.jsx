@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useHistory } from "react-router-dom";
 // Styling and Animation
 import styled from "styled-components";
@@ -28,6 +28,14 @@ const GameDetail = ({ pathId }) => {
       history.push("/");
     }
   };
+
+  useEffect(() => {
+    return () => {
+      if (document.body.style.overflow === "hidden") {
+        document.body.style.overflow = "auto";
+      }
+    };
+  }, [history]);
 
   // Get starts
   const getStars = () => {
